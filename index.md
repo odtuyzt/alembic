@@ -3,7 +3,7 @@ title: ODTÜ YZT nedir?
 feature_text: |
   ## ODTÜ Yapay Zeka Topluluğu
   ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoş geldiniz!
-feature_image: "https://1.bp.blogspot.com/-aPrPtzrdurU/XS1q8OYCsgI/AAAAAAAADDc/eFKMv14YCZsHDITLnptrrAG7RnNDfvCJgCLcBGAs/s1600/3.jpg"
+feature_image: "https://c4.wallpaperflare.com/wallpaper/930/316/885/gradient-simple-background-colorful-abstract-wallpaper-preview.jpg"
 excerpt: "Yapay zeka nedir? Nasıl çalışıyor? Dünyada ve Türkiye’de hangi kurumlar bu konuda neler yapıyor? Gerçekten işimizi çalacak mı? Hazırlık sınavını benim yerime çözebilir mi? Bu soruların cevabını bulmak, proje geliştirmek, hackathon’lara katılmak ve yapay zeka devriminde rol almak için YZT’ye katıl! EE’ci veya beşeri, YZ dünyasında herkese yer var."
 ---
 
