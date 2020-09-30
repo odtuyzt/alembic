@@ -2,7 +2,7 @@
 title: Bize katılın
 feature_text: |
   Topluluğumuzun bir parçası olun!
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://jooinn.com/images/abstract-background-293.jpg"
 excerpt: "Topluluğumuzun bir parçası olun!"
 aside: true
 ---
