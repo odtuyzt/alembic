@@ -2,7 +2,7 @@
 title: Bize katılın
 feature_text: |
   Topluluğumuzun bir parçası olun!
-feature_image: "https://jooinn.com/images/abstract-background-293.jpg"
+feature_image: "https://c4.wallpaperflare.com/wallpaper/930/316/885/gradient-simple-background-colorful-abstract-wallpaper-preview.jpg"
 excerpt: "Topluluğumuzun bir parçası olun!"
 aside: true
 ---
