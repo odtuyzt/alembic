@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: OO
 feature_text: |
-  ## Alembic
+  ## ODTÜ Yapay Zeka Topluluğu
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Yapay zeka nedir?N asıl çalışıyor? Dünyada ve Türkiye’de hangi kurumlar bu konuda neler yapıyor? Gerçekten işimizi çalacak mı? Hazırlık sınavını benim yerime çözebilir mi? Bu soruların cevabını bulmak, proje geliştirmek, hackathon’lara katılmak ve yapay zeka devriminde rol almak için YZT’ye katıl! EE’ci veya beşeri, YZ dünyasında herkese yer var."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
