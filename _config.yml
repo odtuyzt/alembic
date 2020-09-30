@@ -64,7 +64,7 @@ collections:
     output: true
     description: "Yazılarımız" # The post list page content
     feature_text: |
-      Blogumuza hoşgeldiniz
+      Blogumuza hoşgeldiniz!
     feature_image: "https://c4.wallpaperflare.com/wallpaper/930/316/885/gradient-simple-background-colorful-abstract-wallpaper-preview.jpg"
 
 # 6. Jekyll collections settings
@@ -96,7 +96,7 @@ description: "ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoşgeldiniz!" # Si
 url: "odtuyzt.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "odtuyzt@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
