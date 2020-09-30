@@ -1,10 +1,10 @@
 ---
-title: OO
+title: Yapay zekanın ne olduğunu sen de merak ediyor musun?
 feature_text: |
   ## ODTÜ Yapay Zeka Topluluğu
   ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoş geldiniz!
 feature_image: "https://c7.uihere.com/files/299/1011/782/rain-background.jpg"
-excerpt: "Yapay zeka nedir?N asıl çalışıyor? Dünyada ve Türkiye’de hangi kurumlar bu konuda neler yapıyor? Gerçekten işimizi çalacak mı? Hazırlık sınavını benim yerime çözebilir mi? Bu soruların cevabını bulmak, proje geliştirmek, hackathon’lara katılmak ve yapay zeka devriminde rol almak için YZT’ye katıl! EE’ci veya beşeri, YZ dünyasında herkese yer var."
+excerpt: "Yapay zeka nedir? Nasıl çalışıyor? Dünyada ve Türkiye’de hangi kurumlar bu konuda neler yapıyor? Gerçekten işimizi çalacak mı? Hazırlık sınavını benim yerime çözebilir mi? Bu soruların cevabını bulmak, proje geliştirmek, hackathon’lara katılmak ve yapay zeka devriminde rol almak için YZT’ye katıl! EE’ci veya beşeri, YZ dünyasında herkese yer var."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
