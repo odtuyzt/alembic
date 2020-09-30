@@ -2,8 +2,8 @@
 title: OO
 feature_text: |
   ## ODTÜ Yapay Zeka Topluluğu
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoş geldiniz!
+feature_image: "https://c7.uihere.com/files/299/1011/782/rain-background.jpg"
 excerpt: "Yapay zeka nedir?N asıl çalışıyor? Dünyada ve Türkiye’de hangi kurumlar bu konuda neler yapıyor? Gerçekten işimizi çalacak mı? Hazırlık sınavını benim yerime çözebilir mi? Bu soruların cevabını bulmak, proje geliştirmek, hackathon’lara katılmak ve yapay zeka devriminde rol almak için YZT’ye katıl! EE’ci veya beşeri, YZ dünyasında herkese yer var."
 ---
 
