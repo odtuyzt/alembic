@@ -1,5 +1,5 @@
 ---
-title: Yapay zekanın ne olduğunu sen de merak ediyor musun?
+title: ODTÜ YZT nedir?
 feature_text: |
   ## ODTÜ Yapay Zeka Topluluğu
   ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoş geldiniz!
