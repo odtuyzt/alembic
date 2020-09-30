@@ -123,9 +123,9 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Kategoriler
-  url: /categories/
+  url: /kategoriler/
 - title: Arama
-  url: /search/
+  url: /arama/
 
 navigation_footer:
 - title: ODTÜ Yapay Zeka Topluluğu
