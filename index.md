@@ -22,12 +22,16 @@ ODTÜ Yapay Zeka Topluluğu (YZT) ODTÜ öğrencilerinin, üniversitenin “yeni
 ### Organizasyonumuz
 
 YZT içinde ikiye ayrılır: ARGE grubu ve eğitim grubu.
+
 ARGE grubu tecrübeli YZT üyelerinden oluşur. Bu üyeler:
 - proje liderliği, takım kaptanlığı gibi kıdemli rollerde bulunurlar. 
 - yapılacak projelerin belirlenmesine, eğitim müfredatının hazırlanmasına katkıda bulunurlar.
 - topluluğun yönetiminde yer alabilirler.
 - eğitim grubu üyelerine mentörlük yaparlar.
+
 Eğitim grubu üyeleri seçtikleri müfredat doğrultusunda eğitim alırlar ve eğitimin sonunda sertifika almaya hak kazanırlar. Başarılı üyeler ARGE grubuna katılabilirler.
+
+Tüm üyelerimiz düzenlenen etkinliklerde rol alabilir.
 
 ### Etkinliklerimiz
 
