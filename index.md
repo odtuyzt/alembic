@@ -1,12 +1,12 @@
 ---
-title: ODTÜ YZT
+title: 
 feature_text: |
   ## ODTÜ Yapay Zeka Topluluğu
   ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoş geldiniz!
 feature_image: "https://c4.wallpaperflare.com/wallpaper/930/316/885/gradient-simple-background-colorful-abstract-wallpaper-preview.jpg"
 excerpt: "Yapay zeka nedir? Nasıl çalışıyor? Dünyada ve Türkiye’de hangi kurumlar bu konuda neler yapıyor? Gerçekten işimizi çalacak mı? Hazırlık sınavını benim yerime çözebilir mi? Bu soruların cevabını bulmak, proje geliştirmek, hackathon’lara katılmak ve yapay zeka devriminde rol almak için YZT’ye katıl! EE’ci veya beşeri, YZ dünyasında herkese yer var."
 ---
-
+## DUYURU
 Tanışma toplantımız **9 EKİM CUMA SAAT 18.00'**de Zoom üzerinden gerçekleşecektir. Toplantımızın zoom linki için [buraya tıklayın](https://us04web.zoom.us/j/5262146219?pwd=cUtwNVZBdmo5emVSaXpaQ2VrcWJodz09)
 
 {% include button.html text="Topluluğumuza katılın" link="https://forms.gle/zbd2XTPhXB8k7N4k6" %}
