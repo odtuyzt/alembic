@@ -1,5 +1,5 @@
 ---
-title: Duyuru
+title: ODTÜ YZT
 feature_text: |
   ## ODTÜ Yapay Zeka Topluluğu
   ODTÜ'nün yapay zeka odaklı ilk topluluğuna hoş geldiniz!
