@@ -45,7 +45,7 @@ Tüm üyelerimiz düzenlenen etkinliklerde rol alabilir.
 
 ### Bize Katılın
 
-YZT hala kuruluş aşamasında bir topluluktur. Eğer siz de çekirdek kadromuza katılmak isterseniz lütfen odtuyzt@gmail.com adresine mail atın.
+YZT hala kuruluş aşamasında bir topluluktur. Eğer siz de topluluğumuza üye olarak katılmak isterseniz lütfen Bize Katılın sayfamızdaki formu doldurun.
 
 ODTÜ YZ çalışma grubumuza katılın: [https://t.me/odtuyz](https://t.me/odtuyz)
 
