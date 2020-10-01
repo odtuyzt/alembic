@@ -13,7 +13,7 @@ excerpt: "Yapay zeka nedir? Nasıl çalışıyor? Dünyada ve Türkiye’de hang
 {% include button.html text="Çekirdek kadromuza katılın" link="https://forms.gle/YrqX9ZEpQ1RQ3A1V8" %}
 
 ### ODTÜ YZT nedir?
-ODTÜ Yapay Zeka Topluluğu (YZT) ODTÜ öğrencilerinin, üniversitenin “yenilikçilik ve öncülük” değerinin ışığında, günümüzün en önemli teknolojisi olan yapay zekayı (YZ) kullanarak ve okulun etik değerleri göz önüne alarak sağlıktan robotiğe geniş bir yelpazede uygulanabilir projeler geliştirdiği, alanın akademik ve endüstriyel takibini yaptığı ve bu doğrultuda bilgi paylaşımında bulunduğu bir topluluktur.
+ODTÜ Yapay Zeka Topluluğu (YZT) ODTÜ öğrencilerinin, üniversitenin “yenilikçilik ve öncülük” değerinin ışığında, günümüzün en önemli teknolojisi olan yapay zekayı (YZ) kullanarak ve okulun etik değerlerini göz önüne alarak sağlıktan robotiğe geniş bir yelpazede uygulanabilir projeler geliştirdiği, alanın akademik ve endüstriyel takibini yaptığı ve bu doğrultuda bilgi paylaşımında bulunduğu bir topluluktur.
 
 ### Prensiplerimiz
 
