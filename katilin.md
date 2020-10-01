@@ -1,7 +1,7 @@
 ---
 title: Bize katılın
 feature_text: |
-  Topluluğumuzun bir parçası olun!
+  ## Topluluğumuzun bir parçası olun!
 feature_image: "https://c4.wallpaperflare.com/wallpaper/930/316/885/gradient-simple-background-colorful-abstract-wallpaper-preview.jpg"
 excerpt: "Topluluğumuzun bir parçası olun!"
 aside: true
