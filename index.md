@@ -51,8 +51,6 @@ Tüm üyelerimiz düzenlenen etkinliklerde rol alabilir.
 
 YZT hala kuruluş aşamasında bir topluluktur. Eğer siz de topluluğumuza üye olarak katılmak isterseniz lütfen Bize Katılın sayfamızdaki formu doldurun.
 
-ODTÜ YZ çalışma grubumuza katılın: [https://t.me/odtuyz](https://t.me/odtuyz)
-
 Instagram'dan takip edin: [https://www.instagram.com/odtuyzt/](https://www.instagram.com/odtuyzt/)
 
 LinkedIn'den takip edin: [https://www.linkedin.com/company/odtu-yzt](https://www.linkedin.com/company/odtu-yzt)
